@@ -1,0 +1,22 @@
+<head>
+        <meta charset="UTF-8">
+        <title>sanya portfolio</title>
+        <meta type="description" content="first repository">
+    </head>
+    <body>
+
+        <div style="text-align: center;">
+            <h1>Sanya Sharma</h1>
+            <br>
+            <br>
+            <a href="mailto: sanyasharma7300@gmail.com">sanyasharma7300@gmail.com </a>
+            <br>
+            <h2>Skills</h2>
+            HTML,CSS
+            <br>
+            <h2>Projects</h2>
+            <br>
+            <h2>About Me</h2>
+        </div>
+    </body>
+</html>
